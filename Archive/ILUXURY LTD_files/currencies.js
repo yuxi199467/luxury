@@ -1,0 +1,1 @@
+var Currency = { rates: {"GBP":1.0,"MYR":5.95,"TWD":40.0,"SGD":1.76,"HKD":10.1,}, convert: function(amount, from, to) { return (amount / this.rates[from]) * this.rates[to]; } }

@@ -1,0 +1,1 @@
+Currency.money_with_currency_format={GBP:"£ {{amount}} GBP",MYR:"RM {{amount}} MYR",TWD:"NT$ {{amount}} TWD",SGD:"S$ {{amount}} SGD",HKD:"HK$ {{amount}} HKD",}; Currency.money_format=Currency.money_with_currency_format; Currency.money_decimal={GBP:"2",MYR:"2",TWD:"0",SGD:"2",HKD:"2",}; Currency.money_separator={GBP:",",MYR:",",TWD:",",SGD:",",HKD:",",};
